@@ -129,7 +129,7 @@ p {
 }
 
 #titlebar-container-logo {
-  background-image:url('../img/willTex.png');
+  background-image:url('../img/willTex.PNG');
   width:246px;
   height:90px;
 }
@@ -166,7 +166,7 @@ p {
   margin-left: 430px;
   margin-top: 50px;
   z-index:-1;
-  background: url("../img/willV1.png") no-repeat; 
+  background: url("../img/willV1.PNG") no-repeat; 
   background-size:  120px 380px;;
 }
 
